@@ -68,7 +68,7 @@ Dedicated Embedded Systems Engineer with a long-term goal of contributing to def
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: yourmail@gmail.com  
+- 📧 Email: sohamshinde608@gmail.com
 - 💼 LinkedIn: https://linkedin.com/in/yourprofile  
 - 🧑‍💻 GitHub: https://github.com/yourusername  
 
