@@ -60,7 +60,7 @@ Dedicated Embedded Systems Engineer with a long-term goal of contributing to def
 ---
 
 ## 🚀 Long-Term Goals
-- Become a highly skilled Embedded/Firmware Engineer  
+- Become a highly skilled Embedded/Hardware Engineer  
 - Work on mission-critical systems in defense & semiconductor industries  
 - Contribute to real-time, safety-critical, and high-reliability embedded products  
 - Continuously improve system-level thinking and hardware–software integration  
